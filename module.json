@@ -9,5 +9,6 @@
     "verified": "13"
   },
   "esmodules": ["theia-prereqs.js"],
-  "manifest": "https://raw.githubusercontent.com/SEU_USUARIO/theia-prereqs/main/module.json"
+  "manifest": "https://raw.githubusercontent.com/Yagoks/theia-prereqs/main/module.json"
 }
+
