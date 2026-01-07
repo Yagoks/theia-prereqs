@@ -1,0 +1,12 @@
+{
+  "id": "theia-prereqs",
+  "title": "Theia Prerequisites",
+  "description": "Generic prerequisite enforcement for items via flags.theia.prereqs.",
+  "version": "1.0.0",
+  "authors": [{"name": "Eis"}],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": ["theia-prereqs.js"]
+}
